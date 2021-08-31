@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../node_modules"
+		}
+	],
+	"settings": {
+		"editor.accessibilityPageSize": 9,
+		"editor.fontSize": 12
+	}
+}
